@@ -1,0 +1,5 @@
+raw commands:
+
+sudo su
+apt install pulseaudio
+apt-get install alsa-source
